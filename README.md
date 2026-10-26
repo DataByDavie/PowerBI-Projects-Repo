@@ -195,3 +195,7 @@ This project demonstrated how Power BI can transform raw retail and sales data i
 ### My Dashboard
 
 [Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiMGZlZDQzZTItY2RmYy00OGU3LTk4OWUtNWNmMjBkNDhiMDFiIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+
+[Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiMGZlZDQzZTItY2RmYy00OGU3LTk4OWUtNWNmMjBkNDhiMDFiIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
