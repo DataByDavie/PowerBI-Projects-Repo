@@ -64,6 +64,7 @@ Developed user-friendly reports with interactive functionality including:
 - User-driven analysis
 
 This enabled stakeholders to investigate trends and answer business questions without modifying the underlying data.
+<img width="972" height="572" alt="image" src="https://github.com/user-attachments/assets/78bc42ce-831d-4157-ba5c-f28c65715a29" />
 
 ---
 
@@ -80,6 +81,7 @@ A range of visualisation types were used to present insights effectively and tel
 | 📌 KPI Cards | Highlight key business metrics |
 | 📋 Tables & Matrices | Display detailed performance data |
 | 🎯 Interactive Dashboards | Combine insights in a single view |
+<img width="978" height="565" alt="image" src="https://github.com/user-attachments/assets/9417e873-f04f-4001-ae73-921310401a5d" />
 
 ---
 
