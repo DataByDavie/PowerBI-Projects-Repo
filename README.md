@@ -3,7 +3,7 @@
 
 ## 🚀 Project Overview
 
-As part of my **Data Technician Bootcamp**, I completed a Power BI project focused on transforming raw retail and sales data into meaningful business insights. The project involved data extraction, transformation, and modelling using **Power Query**, creating **DAX calculations**, and building interactive dashboards that enable users to explore data through dynamic reports and visualisations. Based on work completed in Data_Technician_Workbook_Week_2_ PowerBI_Only.docx. 【1-a015e7】
+As part of my **Data Technician Bootcamp**, I completed a Power BI project focused on transforming raw retail and sales data into meaningful business insights. The project involved data extraction, transformation, and modelling using **Power Query**, creating **DAX calculations**, and building interactive dashboards that enable users to explore data through dynamic reports and visualisations. Based on work completed in Data_Technician_Workbook_Week_2_ PowerBI_Only.docx. 
 
 The primary goal was to develop professional reports that support data-driven decision-making through clear, engaging, and interactive data storytelling.
 
@@ -42,7 +42,7 @@ Examples included:
 - Time-Based Calculations
 - Comparative Analysis Measures
 
-These calculations enhanced reporting capabilities and provided deeper analytical insights. 【1-a015e7】
+These calculations enhanced reporting capabilities and provided deeper analytical insights. 
 
 ---
 
@@ -141,7 +141,7 @@ During the project I gained hands-on experience with:
 - Dashboard Development
 - Business Intelligence Reporting
 
-These skills were developed through practical Power BI labs covering data loading, transformation, semantic modelling, report design, and DAX calculations. 【1-a015e7】
+These skills were developed through practical Power BI labs covering data loading, transformation, semantic modelling, report design, and DAX calculations.
 
 ---
 
